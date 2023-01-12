@@ -1,4 +1,0 @@
-This is hello
-checking if the changes are made after moving folder or not?
-
-To check git diff command
